@@ -1,0 +1,2 @@
+{"name":"A Practical Item","permission":{"default":0,"OjQbhSBcBLsFSwbu":3},"type":"item","data":{"description":"","logic":"","class":"Bluecoat","load":"1"},"flags":{},"img":"icons/svg/mystery-man.svg","effects":[],"_id":"qVYfvJC9lAYsiyNT"}
+{"name":"A Luxury Item","permission":{"default":0,"OjQbhSBcBLsFSwbu":3},"type":"item","data":{"description":"","logic":"","class":"Inspector","load":"1"},"flags":{},"img":"icons/svg/mystery-man.svg","effects":[],"_id":"GOHvcP8NmSsGpYGy"}
