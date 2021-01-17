@@ -1,0 +1,68 @@
+{
+  "name": "bitd-flame-without-shadow",
+  "title": "Blades in the Dark - Flame without Shadow",
+  "description": "A module to add support for the Flame without Shadow supplement",
+  "author": "daYnyXX",
+  "verison": "1.0.0",
+  "minimumCoreVersion": "0.7.2",
+  "system": "blades-in-the-dark",
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "url": "https://github.com/daynyxx/foundryvtt-bitd-flame-without-shadow",
+  "manifest": "https://raw.githubusercontent.com/daynyxx/foundryvtt-bitd-flame-without-shadow/master/module.json",
+  "dependencies": [
+    {
+      "name": "blades-in-the-dark",
+      "manifest": "https://raw.githubusercontent.com/megastruktur/foundryvtt-blades-in-the-dark/master/system.json"
+    }
+  ],
+  "packs": [
+    {
+      "name": "fws-class",
+      "label": "FWS Classes",
+      "system": "blades-in-the-dark",
+      "path": "./packs/fws-classes.db",
+      "entity": "Item"
+    },
+    {
+      "name": "fws-background",
+      "label": "FWS Backgrounds",
+      "system": "blades-in-the-dark",
+      "path": "./packs/fws-background.db",
+      "entity": "Item"
+    },
+    {
+      "name": "fws-items",
+      "label": "FWS Items",
+      "system": "blades-in-the-dark",
+      "path": "./packs/fws-items.db",
+      "entity": "Item"
+    },
+    {
+      "name": "fws-abilities",
+      "label": "FWS Abilities",
+      "system": "blades-in-the-dark",
+      "path": "./packs/fws-abilities.db",
+      "entity": "Item"
+    },
+    {
+      "name": "fws-crew-abilities",
+      "label": "FWS Crew Abilities",
+      "system": "blades-in-the-dark",
+      "path": "./packs/fws-crew-abilities.db",
+      "entity": "Item"
+    },
+    {
+      "name": "fws-crew-upgrades",
+      "label": "FWS Crew Upgrades",
+      "system": "blades-in-the-dark",
+      "path": "./packs/fws-crew-upgrades.db",
+      "entity": "Item"
+    }
+  ]
+}
