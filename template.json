@@ -1,0 +1,220 @@
+{
+  "Actor": {
+    "types": ["character", "mandate", "imperative"],
+    "character": {
+      "alias": "",
+      "stress": {
+        "value": [0],
+        "max": 9,
+        "max_default": 9,
+        "name_default": "BITD.Stress",
+        "name": "BITD.Stress"
+      },
+      "trauma": {
+        "max": 4,
+        "max_default": 4,
+        "value": [0],
+        "name": "BITD.Trauma",
+        "name_default": "BITD.Trauma",
+        "list": [0]
+      },
+      "healing-clock": [0],
+      "experience": [0],
+      "coins": [0],
+      "coins_stashed": [0],
+      "special_abilities": [],
+      "loadout": 0,
+      "load_level": "",
+      "harm": {
+        "light": {
+          "one": "",
+          "two": ""
+        },
+        "medium": {
+          "one": "",
+          "two": ""
+        },
+        "heavy": {
+          "one": ""
+        },
+        "deadly": {
+          "one": ""
+        }
+      },
+      "armor-uses": {
+        "armor": 0,
+        "heavy": 0,
+        "speacial": 0
+      },
+      "attributes": {
+        "conviction": {
+          "exp": [0],
+          "label": "FWS.SkillsConviction",
+          "skills": {
+            "control": {
+              "label": "FWS.SkillsControl",
+              "value": [0]
+            },
+            "file": {
+              "label": "FWS.SkillsFile",
+              "value": [0]
+            },
+            "testify": {
+              "label": "FWS.SkillsTestify",
+              "value": [0]
+            }
+          }
+        },
+        "force": {
+          "exp": [0],
+          "label": "FWS.SkillsForce",
+          "skills": {
+            "subdue": {
+              "label": "FWS.SkillsSubdue",
+              "value": [0]
+            },
+            "maneuver": {
+              "label": "FWS.SkillsManeuver",
+              "value": [0]
+            },
+            "provoke": {
+              "label": "FWS.SkillsProvoke",
+              "value": [0]
+            }
+          }
+        },
+        "savvy": {
+          "exp": [0],
+          "label": "FWS.SkillsSavvy",
+          "skills": {
+            "deceive": {
+              "label": "FWS.SkillsDeceive",
+              "value": [0]
+            },
+            "patrol": {
+              "label": "FWS.SkillsPatrol",
+              "value": [0]
+            },
+            "sweep": {
+              "label": "FWS.SkillsSweep",
+              "value": [0]
+            }
+          }
+        },
+        "acumen": {
+          "exp": [0],
+          "label": "FWS.SkillsAcumen",
+          "skills": {
+            "analyze": {
+              "label": "FWS.SkillsAnalyze",
+              "value": [0]
+            },
+            "deceive": {
+              "label": "FWS.SkillsDeceive",
+              "value": [0]
+            },
+            "sweep": {
+              "label": "FWS.SkillsSweep",
+              "value": [0]
+            }
+          }
+        },
+        "integrity": {
+          "exp": [0],
+          "label": "FWS.SkillsIntegrity",
+          "skills": {
+            "control": {
+              "label": "FWS.SkillsControl",
+              "value": [0]
+            },
+            "file": {
+              "label": "FWS.SkillsFile",
+              "value": [0]
+            },
+            "testify": {
+              "label": "FWS.SkillsTestify",
+              "value": [0]
+            }
+          }
+        },
+        "valor": {
+          "exp": [0],
+          "label": "FWS.SkillsValor",
+          "skills": {
+            "maneuver": {
+              "label": "FWS.SkillsManeuver",
+              "value": [0]
+            },
+            "provoke": {
+              "label": "FWS.SkillsProvoke",
+              "value": [0]
+            },
+            "subdue": {
+              "label": "FWS.SkillsSubdue",
+              "value": [0]
+            }
+          }
+        },
+        "clarity": {
+          "exp": [0],
+          "label": "FWS.SkillsClarity",
+          "skills": {
+            "file": {
+              "label": "FWS.SkillsFile",
+              "value": [0]
+            },
+            "maneuver": {
+              "label": "FWS.SkillsManeuver",
+              "value": [0]
+            },
+            "testify": {
+              "label": "FWS.SkillsTestify",
+              "value": [0]
+            }
+          }
+        },
+        "depth": {
+          "exp": [0],
+          "label": "FWS.SkillsDepth",
+          "skills": {
+            "deceive": {
+              "label": "FWS.SkillsDeceive",
+              "value": [0]
+            },
+            "fathom": {
+              "label": "FWS.SkillsFathom",
+              "value": [0]
+            },
+            "sweep": {
+              "label": "FWS.SkillsSweep",
+              "value": [0]
+            }
+          }
+        },
+        "scorn": {
+          "exp": [0],
+          "label": "FWS.SkillsScorn",
+          "skills": {
+            "control": {
+              "label": "FWS.SkillsControl",
+              "value": [0]
+            },
+            "provoke": {
+              "label": "FWS.SkillsProvoke",
+              "value": [0]
+            },
+            "subdue": {
+              "label": "FWS.SkillsSubdue",
+              "value": [0]
+            }
+          }
+        }
+      }
+    },
+    "mandate": {
+      "name": "",
+      "reputation": [0],
+      "warrant": ""
+    }
+  }
+}
